@@ -1,0 +1,36 @@
+/* Estilos da página index.html*/
+.center {
+    text-align: center;
+
+}
+.container{
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: center;
+}
+
+#menu li{
+    display: inline;
+    padding: 50px;
+    text-decoration: none;
+    font-size: 20px;
+}
+
+#menu li a{
+    text-decoration: none;
+    color: blueviolet;
+}
+
+#menu li a:hover{
+    color: gray;
+}
+
+.p40{
+    padding: 40px;
+}
+
+.wh{
+    width: 500 px;
+    height: 400 px  ;
+}
+/* Estilos da página contato.html*/
